@@ -1,0 +1,2 @@
+Data Api -> URL: https://lnlpbgwzbsbhmbyyoyco.supabase.co
+API Kyys -> anon public: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxubHBiZ3d6YnNiaG1ieXlveWNvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjU5NDcwNTAsImV4cCI6MjA4MTUyMzA1MH0.9X6HGqxtGITCU9gY8i74I1imJY6dm3p0EFx32GrGmZw

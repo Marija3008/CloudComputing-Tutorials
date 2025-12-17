@@ -1,0 +1,24 @@
+{
+  "name": "cloudcomputing-tutorials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marija3008/CloudComputing-Tutorials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Marija3008/CloudComputing-Tutorials/issues"
+  },
+  "homepage": "https://github.com/Marija3008/CloudComputing-Tutorials#readme",
+  "dependencies": {
+    "supabase": "^2.67.2"
+  }
+}
